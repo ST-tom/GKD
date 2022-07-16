@@ -1,4 +1,4 @@
-![logo](./logo.svg)
+![logo](/logo.svg)
 
 # GKD
 
